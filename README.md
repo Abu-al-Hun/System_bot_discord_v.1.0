@@ -1,6 +1,6 @@
 # Skoda Team
 
-![Skoda Team Logo]([https://imgur.com/gallery/skoda-team-88FTF90))
+![Skoda Team Logo](https://imgur.com/FCbhNot.png)
 
 Welcome to the Skoda Team's repository!
 
