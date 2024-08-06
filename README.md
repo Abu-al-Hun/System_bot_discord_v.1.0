@@ -1,10 +1,10 @@
-# Skoda Team
+# Abu Alhon & Tommy
 
-Welcome to the Skoda Team's repository!
+Welcome to the Abu Alhon & Tommy team's repository!
 
 ## About Us
 
-Skoda Team is a dedicated group of developers working together on various projects. Our mission is to collaborate and create innovative solutions that make a difference. We are passionate about coding, learning, and growing together.
+Abu Alhon & Tommy is a dedicated group of developers working together on various projects. Our mission is to collaborate and create innovative solutions that make a difference. We are passionate about coding, learning, and growing together.
 
 ## Projects
 
@@ -41,4 +41,4 @@ For any inquiries or questions, please contact us at [your-email@example.com](ma
 
 ---
 
-Thank you for being a part of Skoda Team!
+Thank you for being a part of Abu Alhon & Tommy!
