@@ -1,5 +1,7 @@
 # Skoda Team
 
+![Skoda Team Logo]([https://imgur.com/FCbhNot))
+
 Welcome to the Skoda Team's repository!
 
 ## About Us
@@ -16,7 +18,7 @@ Here are some of the key projects we are working on:
 
 - **Member 1**: Abu Al-Hun.
 - **Member 2**: 𝚃𝚘𝚖𝚖𝚢.
-- 
+
 ## How to Contribute
 
 We welcome contributions from everyone. To contribute, follow these steps:
