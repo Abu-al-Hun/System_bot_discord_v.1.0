@@ -10,16 +10,13 @@ Skoda Team is a dedicated group of developers working together on various projec
 
 Here are some of the key projects we are working on:
 
-1. **Project 1**: Description of the first project.
-2. **Project 2**: Description of the second project.
-3. **Project 3**: Description of the third project.
+1. **Project 1**: System_bot.
 
 ## Team Members
 
 - **Member 1**: Abu Al-Hun.
-- **Member 2**: Role and brief description.
-- **Member 3**: Role and brief description.
-
+- **Member 2**: 𝚃𝚘𝚖𝚖𝚢.
+- 
 ## How to Contribute
 
 We welcome contributions from everyone. To contribute, follow these steps:
