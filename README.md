@@ -18,7 +18,7 @@ Here are some of the key projects we are working on:
 
 - **Member 1**: Abu Al-Hun.
 - **Member 2**: 𝚃𝚘𝚖𝚖𝚢.
--**Member 3**: Nermeen Naro.
+- **Member 3**: Nermeen Naro.
 
 ## How to Contribute
 
