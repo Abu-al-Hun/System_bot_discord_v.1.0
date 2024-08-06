@@ -1,0 +1,4 @@
+discord
+art
+colorama
+dotenv
